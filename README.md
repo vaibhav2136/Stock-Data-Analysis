@@ -11,7 +11,7 @@ This Python program analyzes stock data from a PostgreSQL database and generates
 - Visualizes trading data and signal-related transactions.
 
 ## Requirements
-- Python 3.x
+- Python 3.10.5
 - psycopg2 (for connecting to PostgreSQL database)
 - pandas (for data manipulation)
 - matplotlib (for data visualization)
